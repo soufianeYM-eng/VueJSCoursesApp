@@ -1,4 +1,4 @@
-# vuejs3-with-cli
+# Firt app with VueJS
 
 ## Project setup
 ```
