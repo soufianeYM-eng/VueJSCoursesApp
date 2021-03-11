@@ -1,4 +1,4 @@
-# Firt app with VueJS
+# First app with VueJS
 
 ## Project setup
 ```
